@@ -1,0 +1,244 @@
+= Das Lied von der Erde
+Gustav Mahler
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: left
+:numbered:
+:pdf-page-size: A5
+
+
+
+[width="100%",frame=none,grid=none]
+|====================
+|*Das Lied von der Erde*|*Le Chant de la Terre*
+||
+|*1. Das trinklied vom Jammer der Erde*|*1. Chanson à boire de la douleur du monde*
+||
+|Schon winkt der Wein im goldnen Pokale.|Déjà le vin fait signe dans la coupe d’or,
+|Doch trinkt noch nicht, erst sing ich euch ein Lied!|Mais ne buvez pas avant que je ne vous chante une chanson!
+|Das Lied vom Kummer|Le chant du souci
+|Soll auflachend in die Seele euch klingen.|Vous sonnera dans l’âme comme un rire clair.
+|Wenn der Kummer naht,|Quand le souci approche,
+|Liegen wüst die Gärten der Seele,|Déserts sont les jardins de l’âme,
+|Welkt hin und stirbt die Freunde, der Gesang.|La joie, le chant se fanent et meurent.
+|Dunkel ist das Lieben, ist der Tod.|Sombre est la vie, sombre la mort.
+||
+|Herr dieses Hauses!|Maître de cette maison!
+|Dein Keller birgt die Fülle des goldenen Weins!|Ta cave recelle en abondance le vin doré!
+|Hier diese Laute nenn ich mein!|Ce luth, ici, je le déclare mien!
+|Die Laute schlagen und die Gläser leeren,|Jouer du luth et vider les verres,
+|Das sind die Dinge, die zusammen passen.|Voilà des choses qui vont ensemble.
+|Ein voller Becher Weins zur rechten Zeit|Un pot plein de vin au bon moment
+|Ist mehr wert als alle Reiche dieser Erde!|Vaut plus que tous les biens de cette terre!
+|Dunkel ist das Leben, ist der Tod.|Sombre est la vie, sombre la mort.
+||
+|Das Firmament blaut ewig, und die Erde|Le firmament, toujours, est bleu, et la terre
+|Wird lange feststehn und aufblühn im Lenz.|Restera longtemps et fleurira au printemps.
+|Du aber, Mensch, wie lange lebst denn du?|Mais toi, Homme, combien de temps vis-tu?
+|Nicht hundert Jahre darfst du dich ergötzen|Tu n’auras même pas cent ans pour jouir
+|An all dem morschen Tande dieser Erde!|De toutes les vanités corrompues de la terre!
+||
+|Seht dort hinab! Im Mondschein auf den Gräben|Regardez là-bas! Au clair de lune sur les tombes
+|Hockt eine wild-gespenstische Gestalt.|Est accroupie une forme, sauvage et fantomatique.
+|Ein Aff ist’s! Hört ihr, wie sein Heulen hinausgellt|C’est un singe! Écoutez comme son hurlement déchire
+|In den süßen Duft des Lebens!|Le doux parfum de la vie!
+||
+|Jetzt nehmt den Wein! Jetz ist es Zeit, Genossen!|Maintenant, prenez le vin! Maintenant il est temps, compagnons!
+|Leert eure goldnen Becher zu Grund!|Videz vos coupes d’or jusqu’au fond!
+|Dunkel ist das Leben, ist der Tod.|Sombre est la vie, sombre la mort.
+|====================
+<<<
+[width="100%",frame=none,grid=none]
+|====================
+|*2. Der Einsame im Herbst*|*2. Le Solitaire en Automne*
+||
+|Herbstnebel wallen bläulich überm See;|Les brumes d’automne errent bleues sur le lac;
+|Vom Reif bezogen stehen alle Gräser.|Figés de gel se dressent tous les brins d’herbe;
+|Man meint, ein Künstler habe Staub von Jade|On dirait qu’un artiste a répandu de la poudre de jade
+|Über die feinen Blüten ausgestreut.|Sur les fleurs délicates.
+||
+|Der süße Duft der Blumen ist verflogen,|Le doux parfum des fleurs a fui;
+|Ein kalter Wind beugt ihre Stengel nieder.|Un vent glacé courbe bas leurs tiges.
+|Bald werden die verwelkten goldnen Blätter|Bientôt les pétales d’or fanés
+|Der Lotosblüten auf dem Wasser ziehn. |Des fleurs de lotus glisseront sur l’eau.
+||
+|Mein Herz ist müde. Mein kleine Lampe |Mon coeur est fatigué. Ma petite lampe
+|Erlosch mit Knistern, es gemahnt mich an den Schlaf.|S’est éteinte dans un crépitement, elle me rappelle au sommeil.
+|Ich komm zu dir, traute Ruhestätte!|Je viens à toi, fidèle demeure du repos!
+|Ja gib mir Ruh! Ich hab Erquickung not!|Oui, donne-moi le repos! J’ai tant besoin de réconfort!
+||
+|Ich weine viel in meinen Einsamkeiten,|Je pleure beaucoup dans ma solitude.
+|Der Herbst in meinen Herzen währt zu lange;|L’automne dans mon coeur dure depuis trop longtemps.
+|Sonne der Lieb, willst du nie mehr scheinen,|Soleil de l’amour, ne veux-tu plus jamais briller
+|Um meine bittern Tränen mild aufzutrocknen?|Pour sécher tendrement mes larmes amères?
+|====================
+<<<
+[width="100%",frame=none,grid=none]
+|====================
+|*3. Von der Jugend*|*3. De la Jeunesse*
+||
+|Mitten in dem kleinen Teiche|Au milieu du petit étang
+|Steht ein Pavillon aus grünem|Se dresse un pavillon de verte
+|Und aus weißem Porzellan.|Et blanche porcelaine.
+||
+|Wie der Rücken eines Tigers|Comme le dos d’un tigre
+|Wölbt die Brücke sich aus Jade|Un pont de jade tend sa courbe
+|Zu dem Pavillon hinüber.|Jusqu’au pavillon.
+||
+|In dem Häuschen sitzen Freunde,|Dans la petite maison, des amis,
+|Schön gekleidet, trinken, plaudern,|Bien habillés, boivent, bavardent;
+|Manche schreiben Verse nieder.|Certains écrivent des vers.
+||
+|Ihre seidnen Ärmel gleiten|Leurs manches de soie sont
+|Rückwärts, ihre seidnen Mützen|Retroussées, leurs bonnets de soie
+|Hocken lustig tief im Nacken.|Retombent gaiement sur leurs nuques.
+||
+|Auf des kleinen Teiches stiller|Sur les eaux calmes
+|Wasserfläche zeigt sich alles|Du petit étang tout se montre
+|Wunderlich im Spiegelbilde:|Merveilleusement comme dans un miroir.
+||
+|Alles auf dem Kopfe stehend,|Tout se tient sur la tête,
+|In dem Pavillon aus grünem|Dans le pavillon de verte
+|Und aus weißem Porzellan.|Et blanche porcelaine.
+||
+|Wie ein Halbmond steht die Brücke|Comme une demi-lune, le pont,
+|Umgekehrt der Bogen. Freunde,|Son arche sens dessus dessous. Des amis,
+|Schön gekleidet, trinken, plaudern.|Bien habillés, boivent, bavardent.
+|====================
+<<<
+[width="100%",frame=none,grid=none]
+|====================
+|*4. Von der Schönheit*|4. De la Beauté*
+||
+|Junge Mädchen pflücken Blumen,|Des jeunes filles cueillent des fleurs,
+|Pflücken Lotosblumen an dem Uferrande.|Des fleurs de lotus au bord de la rivière.
+|Zwischen Büschen und Blättern sitzen sie,|Entre buissons et feuilles elles sont assises,
+|Sammeln Blüten in den Schoß und rufen|Rassemblent des fleurs sur leurs genoux et
+|Sich einander Neckerein zu.|Se lancent des plaisanteries.
+||
+|Gold’ne Sonne webt um die Gestalten,|Le soleil d’or brille sur leurs corps
+|Spiegelt sich im blanken Wasser wider,|Et projette leurs reflets dans l’eau clair
+|Sonne spiegelt ihre schlanken Glieder,|Le soleil fait miroiter leurs membres frêles,
+|Ihre süßen Augen wider,|Leurs doux yeux.
+|Und der Zephir hebt mit Schmeichelkosen|Et le zéphyr qui gonfle tendrement
+|Das Gewebe Ihrer Ärmel auf,|Leurs manches,
+|Führt den Zauber|Emporte la magie
+|Ihrer Wohlgerüche durch die Luft.|De leur parfum à travers les airs.
+||
+|O sieh, was tummeln sich für schöne Knaben|O voyez, qui sont ces beaux garçons
+|Dort an dem Uferrand auf mutgen Rossen,|Là-bas au bord de l’eau sur leurs braves destriers?
+|Weithin glänzend, wie die Sonnenstrahlen;|Étincelants au loin, comme rayons de soleil;
+|Schon zwischen dem Geäst der grünen Weiden|Parmi les branches des saules verts
+|Trabt das jungfrische Volk einher!|Les gais jeunes gens chevauchent!
+|Das Roß des einen wiehert fröhlich auf|Le cheval de l’un d’eux hennit joyeusement,
+|Und scheut und saust dahin,|Hésite et repart en flèche,
+|Über Blumen, Gräser Wanken hin die Hufe,|Sur fleurs et herbes passent ses sabots.
+|Sie zerstampfen jäh im Sturm|Une tempête! Il piétine
+|Die hingesunken Blüten,|Les pétales tombés.
+|Hei! wie flattern im Taumel seine Mähnen,|Ah! Comme sa crinière vole dans le vent
+|Dampfen heiß die Nüstern!|Et un souffle brûlant sort de ses naseaux!
+|Goldne Sonne webt um die Gestalten,|Le soleil d’or brille sur leurs corps
+|Spiegelt sie im blanken Wasser wider.|Et projette leurs reflets dans l’eau claire.
+||
+|Und die schönste von den Jungfraun sendet Lange Blicke ihm der Sehnsucht nach.|Et la plus belle des jeunes filles le suit d’un long regard nostalgique.
+|Ihre stolze Haltung ist nur Verstellung:|Son fier maintien n’est que façade:
+|In dem Funkeln ihrer großen Augen,|Dans le feu de ses grands yeux,
+|In dem Dunkel ihres heißen Blicks|Dans la nuit de son regard brûlant
+|Schwingt klagend noch die Erregung ihres Herzens nach.|Vibre et soupire encore l’excitation de son coeur.
+|====================
+<<<
+[width="100%",frame=none,grid=none]
+|====================
+|*5. Der Trunkene im Frühling*|*5. L’Homme ivre au Printemps*
+||
+|Wenn nur ein Traum das Leben ist|Si la vie n’est qu’un rêve,
+|Warum dann Müh und Plag?|Pourquoi alors fatigue et peine?
+|Ich trinke, bis ich nicht mehr kann,|Je bois, jusqu’à ce que je n’en puisse plus,
+|Den ganzen lieben Tag.|Tout au long de l’aimable jour!
+||
+|Und wenn ich nicht mehr trinken kann,|Et quand je ne peux plus boire
+|Weil Kehl und Seele voll,|Car corps et âme sont rassasiés,
+|So tauml’ ich bis zu meiner Tür|Je titube jusqu’à ma porte
+|Und schlafe wundervoll! |Et dors merveilleusement!
+||
+|Was hör ich beim Erwachen?|Qu’entends-je au réveil?
+|Horch, ein Vogel singt im Baum.|Écoutez, un oiseau chante dans l’arbre.
+|Ich frag ihn, ob schon Frühling sei,|Je lui demande si c’est déjà le printemps,
+|Mir ist als wie im Traum.|Il me semble que je rêve.
+||
+|Der Vogel zwitschert: ja! der Lenz ist da, |L’oiseau gazouille: Oui! Le printemps est là,
+|Sei kommen über Nacht, –|Venu pendant la nuit!
+|Aus tiefstem Schauen lauscht ich auf,|Avec une attention profonde, je l’écoute.
+|Der Vogel singt und lacht!|L’oiseau chante et rit!
+||
+|Ich fülle mir den Becher neu|Je remplis mon verre à nouveau
+|Und leer ihn bis zum Grund|Et le vide jusqu’au fond
+|Und singe, bis der Mond erglänzt|Et chante jusqu’à ce que la lune
+|Am schwarzen Firmament.|Brille au noir firmament.
+||
+|Und wenn ich nicht mehr singen kann,|Et quand je ne peux plus chanter,
+|So schlaf ich wieder ein.|Je m’endors à nouveau.
+|Was geht mich denn der Frühling an!|Qu’ai-je à voir avec le printemps?
+|Laßt mich betrunken sein!|Laissez-moi être ivre!
+|====================
+<<<
+[width="100%",frame=none,grid=none]
+|====================
+|*6. Der Abschied*|*6. L’Adieu*
+|(nach Wang-Sei)|(d’après Wang-Sei)
+|Die Sonne scheidet hinter dem Gebirge.|Le soleil plonge derrière les montagnes.
+|In alleTäler steigt der Abend nieder|Sur les vallées tombent le soir
+|Mit seinen Schatten, die voll Kühlung sind.|Et ses ombres pleines de fraîcheur.
+||
+|O sieh! Wie eine Silberbarke schwebt|O vois! Comme une barque d’argent flotte
+|Der Mond am blauen Himmelssee herauf.|La lune sur la mer bleue du ciel.
+|Ich spüre eines feinen Windes Wehn|Je sens une tendre brise souffler
+|Hinter den dunklen Fichten!|Derrière les pins sombres!
+|Der Bach singt voller Wohllaut durch das Dunkel.|Le ruisseau chante à voix plus haute dans l’ombre,
+|Die Blumen blassen im Dämmerschein.|Les fleurs pâlissent dans la lueur du crépuscule.
+|Die Erde atmet voll von Ruh’ und Schlaf.|La terre respire pleinement dans le repos et le sommeil.
+|Alle Sehnsucht will nun träumen,|Tous les désirs sont désormais changés en rêves,
+|Die müden Menschen gehn heimwärts,|Les gens fatigués rentrent chez eux,
+|Um im Schlaf vergessnes Glück|Pour trouver un bonheur oublié dans le sommeil
+|Und Jugend neu zu lernen!|Et apprendre à nouveau la jeunesse!
+|Die Vögel hocken still in ihren Zweigen.|Les oiseaux sont blottis, silencieux, sur leurs branches.
+|Die Welt schläft ein…|Le monde s’endort…
+||
+|Es wehet kühl im Schatten meiner Fichten.|Il souffle une brise fraîche à l’ombre de mes pins.
+|Ich stehe hier und harre eines Freundes;|Je suis là, attendant un ami;
+|Ich harre sein zum letzten Lebewohl.|Je l’attends pour un dernier adieu.
+||
+|Ich sehne mich, o Freund, an deiner Seite|J’ai tant envie, ami, à tes côtés 
+|Die Schönheit dieses Abends zu genießen.|De partager la beauté de ce soir.
+|Wo bleibst du? Du läßt mich lang allein!|Où es-tu? Tu m’as laissé seul si longtemps!
+||
+|Ich wandle auf und nieder mit meiner Laute|J’erre ici et là, avec mon luth,
+|Auf Wegen, die von weichem Grase schwellen.|Sur des sentiers riches d’une herbe douce.
+|O Schönheit! O ewigen Liebens, Lebens trunk’ne Welt!|O beauté! O monde à jamais ivre d’amour et de vie!
+||
+|(nach Wang-Sei)|(d’après Wang-Sei)
+|Er stieg vom Pferd und reichte ihm den Trunk des Abschieds dar.|Il descendit de cheval et lui tendit le breuvage de l’adieu.
+|Er fragte ihn, wohin er führe |Il lui demanda où il irait
+|Und auch warum es müßte sein.|Et aussi pourquoi cela devait être.
+||
+|Er sprach, seine Stimme war umflort :|Il parla, sa voix était voilée :
+|Du, mein Freund,|Toi, mon ami,
+|Mir war auf dieser Welt das Glück nicht hold!|Sur cette terre, le bonheur ne m’a pas été donné!
+||
+|Wohin ich geh? Ich geh, ich wandre in die Berge.|Où vais-je ? Je vais, j’erre dans les montagnes.
+|Ich suche Ruhe für mein einsam Herz!|Je cherche le repos pour mon coeur solitaire.
+||
+|Ich wandle nach der Heimat, meiner Stätte.|Je vais vers mon pays, mon refuge.
+|Ich werde niemals in die Ferne schweifen.|Jamais je n’errerai plus au loin.
+|Still ist mein Herz und harret seiner Stunde!|Calme est mon coeur et il attend son heure.
+||
+|Die liebe Erde allüberall|Partout, la terre bien-aimée
+|Blüht auf im Lenz und grünt aufs neu!|Fleurit au printemps et verdit à nouveau!
+|Allüberall und ewig blauen licht die Fernen!|Partout et éternellement, les lointains bleuissent de lumière!
+|Ewig… ewig…|Éternellement… éternellement…
+|====================
+
+Traduction : Michelle Blanckaert pour http://kulturica.com/k/musique/le-chant-de-la-terre-texte/[Kulturica].
+
+
